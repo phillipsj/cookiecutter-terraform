@@ -9,7 +9,7 @@ environment variable files in directories, then I reference then during executio
 Install the latest Cookiecutter, I recommend using [pipx](https://github.com/pypa/pipx):
 
 ```bash
-pipx cookiecutter
+pipx install cookiecutter
 ```
 
 Now you can create your infrastructure in your existing project or use it to boostrap a repository.
